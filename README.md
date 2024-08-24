@@ -18,7 +18,7 @@ All solutions are stored in the `main` directory as individual Python files, cat
 
 1. Clone the Repository: You can clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/LasyaSriVanga/Litcoder.git
+    git clone https://github.com/VangaLasyaSri/Litcoder.git
     ```
     
 2. Explore the Solutions: Navigate to the main directory to find solutions to specific labs or contests.
